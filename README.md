@@ -8,7 +8,7 @@ This is a simple web application that predicts crop yield based on various input
 To run the Crop Yield Prediction App locally, you need to follow these steps:
 
 1. Clone the repository:
-git clone <repository_url>
+git clone https://github.com/deepshikhar23/Crop-Yield-Prediction
 
 2. Install the required dependencies. Run the following command in your terminal or command prompt:
 pip install pandas scikit-learn flask
