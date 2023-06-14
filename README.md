@@ -3,6 +3,11 @@
 
 This is a simple web application that predicts crop yield based on various input features such as rainfall, pesticide usage, and temperature. The app utilizes a Decision Tree Regression model to make the predictions.
 
+# Screenshots
+![ss2](https://github.com/deepshikhar23/Crop-Yield-Prediction/assets/116090674/95cf37e1-24d6-4e71-a659-1da3d8478abe)
+![ss3](https://github.com/deepshikhar23/Crop-Yield-Prediction/assets/116090674/413ae955-a29f-46d7-b2ca-26cc510d6e8b)
+
+
 ## Installation
 
 To run the Crop Yield Prediction App locally, you need to follow these steps:
