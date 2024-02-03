@@ -1,5 +1,5 @@
 # Crop-Yield-Predictor                                                                                                               
-(http://13.233.99.37:8080/)
+(http://65.0.134.124:5000/)
 
 This is a simple web application that predicts crop yield based on various input features such as rainfall, pesticide usage, and temperature. The app utilizes a Decision Tree Regression model to make the predictions.
 
@@ -37,7 +37,7 @@ Crop Type: Select the type of crop from the dropdown list.
 
 ## AWS Deployment
 
-The Crop Yield Prediction App is also hosted on AWS for convenient access. You can visit the app at the following URL: http://13.233.99.37:8080/
+The Crop Yield Prediction App is also hosted on AWS for convenient access. You can visit the app at the following URL: http://65.0.134.124:5000/
 
 Please note that the AWS deployment may have specific configurations and maintenance requirements that are not covered in this README. For further information or inquiries about the AWS deployment, please contact Deepshikhar Saxena at deepshikhar2305@gmail.com
 
